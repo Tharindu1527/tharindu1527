@@ -40,17 +40,29 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building cool
 
 ## 📊 GitHub Stats
 
-![Tharindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tharindu1527&show_icons=true&theme=radical)
+<!-- GitHub Stats with Animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharindu1527&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu1527&layout=compact&theme=radical)
+<!-- Top Languages with Animation -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu1527&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tharindu1527&theme=radical)
+<!-- GitHub Streak with Animation -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tharindu1527&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Tharindu's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Tharindu1527&theme=radical&no-frame=true&row=1&column=7)
+<!-- GitHub Trophies with Animation -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tharindu1527&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -77,10 +89,21 @@ An AI-powered chatbot using **OpenAI GPT**.
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-handle)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/your-devto-handle)
+<!-- Social Links with Animation -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@your-medium-handle">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://dev.to/your-devto-handle">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</div>
 
 ---
 
@@ -95,8 +118,16 @@ An AI-powered chatbot using **OpenAI GPT**.
 
 ## 🎧 Currently Listening
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/your-spotify-id)
+<!-- Spotify Integration with Animation -->
+<div align="center">
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</div>
 
 ---
 
-⭐️ From [Tharindu1527](https://github.com/Tharindu1527)
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day!;Keep+coding!;⭐️+From+Tharindu1527" alt="Typing SVG" />
+</div>
