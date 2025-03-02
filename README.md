@@ -100,7 +100,7 @@
 <h2 align="center"> AI/ML Development</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,opencv,pandas,sklearn,seaborn" alt="AI/ML Development" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,opencv,sklearn,seaborn" alt="AI/ML Development" />
 </p>
 
 
