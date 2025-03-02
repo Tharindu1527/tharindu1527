@@ -29,7 +29,11 @@
 </tr>
 </table>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tharindu1527" alt="Tharindu1527" /></a></p>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tharindu1527&column=9&theme=dark&bg_color=000000" alt="Tharindu1527" />
+  </a> 
+</p>
 
 ---
 
